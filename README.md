@@ -51,3 +51,6 @@ Using the testing site https://gorest.co.in/, write automation tests for the fol
 The test scenarios are entirely up to you, and you may use additional endpoints if you feel they will
 provide better coverage and improve your coding solution. You will be evaluated on which test cases you
 create as well as on the overall quality and efficiency of your automation code
+
+
+* One task added with additional test cases (addingPrices.spec.js): Testing calculator at saucedemo and visuals - adding the prices together through innerText mapping and replacing $ with empty space + testing visuals
