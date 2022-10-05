@@ -21,6 +21,7 @@ Continue to the Checkout page.
 Complete the checkout form.
 Complete the order.
 Verify that the order is completed successfully with the displayed message.
+
 *2. Test: Items can be sorted.*
 Go to https://www.saucedemo.com/.
 Log in to the site.
@@ -31,6 +32,7 @@ Change the sorting to Price (low to high).
 Verify that the items are sorted correctly.
 Change the sorting to Price (high to low).
 Verify that the items are sorted correctly.
+
 *3. Test: Cannot login with incorrect credentials.*
 Go to https://www.saucedemo.com/.
 Enter an incorrect username.
