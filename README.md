@@ -2,10 +2,12 @@
 Classic UI automation task and API chain requests + response assertions task
 
 Task 1
+
 Your task is to create end2end tests for the following web store https://www.saucedemo.com/ . The
 required login credentials are displayed under the sign-in form. The test suite should contain at least 3
 tests which are defined below. Any additional test cases you add will be treated as a plus.
 Please, follow these test steps:
+
 *1.Test: An order can be completed*
 Go to https://www.saucedemo.com/.
 Log in to the site.
@@ -41,6 +43,7 @@ Click on the Login button.
 Verify that the user cannot log in with incorrect credentials.
 
 Task 2
+
 Using the testing site https://gorest.co.in/, write automation tests for the following endpoints:
 1. Create a new user
 2. Update user details
