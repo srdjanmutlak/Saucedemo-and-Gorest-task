@@ -6,7 +6,7 @@ Your task is to create end2end tests for the following web store https://www.sau
 required login credentials are displayed under the sign-in form. The test suite should contain at least 3
 tests which are defined below. Any additional test cases you add will be treated as a plus.
 Please, follow these test steps:
-1. Test: *An order can be completed*
+*1.Test: An order can be completed*
 Go to https://www.saucedemo.com/.
 Log in to the site.
 Add an item from the list to the cart.
