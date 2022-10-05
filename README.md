@@ -53,4 +53,5 @@ provide better coverage and improve your coding solution. You will be evaluated 
 create as well as on the overall quality and efficiency of your automation code
 
 
-**** One task added with additional test cases (addingPrices.spec.js): Testing calculator at saucedemo and visuals - adding the prices together through innerText mapping and replacing $ with empty space + testing visuals
+****************
+ONE TASK ADDED with additional test cases (addingPrices.spec.js): Testing calculator at saucedemo and visuals - adding the prices together through innerText mapping and replacing $ with empty space + testing visuals
