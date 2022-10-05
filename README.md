@@ -6,7 +6,7 @@ Your task is to create end2end tests for the following web store https://www.sau
 required login credentials are displayed under the sign-in form. The test suite should contain at least 3
 tests which are defined below. Any additional test cases you add will be treated as a plus.
 Please, follow these test steps:
-1. Test: An order can be completed
+1. Test: An order can be completed.
 Go to https://www.saucedemo.com/
 Log in to the site
 Add an item from the list to the cart
@@ -21,7 +21,7 @@ Continue to the Checkout page
 Complete the checkout form
 Complete the order
 Verify that the order is completed successfully with the displayed message
-2. Test: Items can be sorted
+2. Test: Items can be sorted.
 Go to https://www.saucedemo.com/
 Log in to the site
 Verify that the items are sorted by Name ( A TO Z )
@@ -31,7 +31,7 @@ Change the sorting to Price (low to high)
 Verify that the items are sorted correctly
 Change the sorting to Price (high to low)
 Verify that the items are sorted correctly
-3. Test: Cannot login with incorrect credentials
+3. Test: Cannot login with incorrect credentials.
 Go to https://www.saucedemo.com/
 Enter an incorrect username
 Enter an incorrect password
